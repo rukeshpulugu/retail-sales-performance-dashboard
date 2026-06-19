@@ -1,24 +1,24 @@
 # Retail Sales Performance Dashboard
 
 ## Project Overview
-This project analyzes Global Superstore sales data using Microsoft Excel and provides business insights through interactive visualizations.
+
+This project analyzes Global Superstore sales data using Microsoft Excel.
 
 ## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
 
-## Dashboard Features
-- Yearly Sales Trend Analysis
-- Top 10 Products Analysis
-- Category Distribution
-- Region-wise Sales Analysis
-- Sales vs Profit Comparison
-- Interactive Filters using Slicers
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
 
-## Dataset
-Global Superstore Dataset
+## Key Insights
 
-## Author
-Rukesh Pulugu
+* Analyzed yearly sales trends.
+* Identified top 10 products by sales.
+* Compared sales and profit across categories.
+* Performed region-wise sales analysis.
+* Built an interactive dashboard using slicers.
+
+## Dashboard Preview
+
+See the uploaded dashboard screenshot in this repository.
